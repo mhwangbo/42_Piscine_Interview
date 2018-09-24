@@ -1,0 +1,5 @@
+O(n) time.
+O(1) space.
+
+n  => iteration n times;
+space: keep cloned node next to its original node. no extra space needed.

@@ -1,0 +1,9 @@
+radix sort------------------------------------------------
+O(d(n + m))		::: time
+					d = # of digit, n = # of input, m = # of type
+O(n + m)		::: space
+
+binary search---------------------------------------------
+O(logn)			::: time
+					n = # of input
+O(1)			::: space

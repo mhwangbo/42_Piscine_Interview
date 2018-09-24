@@ -1,0 +1,2 @@
+O(n + m)	::: time, n = number of utensils, m = # of type of utensils
+O(n + m)	::: space.

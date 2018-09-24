@@ -1,0 +1,2 @@
+O(nlogn)	::: time, n = number of players
+O(n)		::: space

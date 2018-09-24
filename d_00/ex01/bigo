@@ -1,0 +1,3 @@
+O(n * logn) time, general.
+O(n^2) time, worst case.
+O(log^2 * n) space.

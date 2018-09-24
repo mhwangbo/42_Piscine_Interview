@@ -1,0 +1,2 @@
+O(n^2)	::: time, n = number of players
+O(1)	::: space.
