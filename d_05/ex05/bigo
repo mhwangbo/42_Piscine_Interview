@@ -1,0 +1,5 @@
+O(n * n!)	:::	time, n! ->  permutations; n -> print
+O(n)		:::	space n -> allocate space for dict / worst case
+
+---
+n -> lenght of string

@@ -1,0 +1,6 @@
+O(n * m)	:::	time
+O(1)		::: space
+
+---
+n = x of map
+m = y of map
